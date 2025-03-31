@@ -1,122 +1,73 @@
-## Hi there 👋
-<h1>Hi, I'm Samia! <br/><a 
+# 👋 Hello, moi c'est Samia
 
-# My Portfolio
-
-Welcome to my portfolio! Here you can find my projects and details about my experience.
-![Power BI](https://img.shields.io/badge/Business%20Intelligence-Power%20BI-informational?style=flat&logo=powerbi&color=F2C811)
-![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=sqlite&color=003B57)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
-![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
-![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
-![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
-
-
-## Download My CV
-[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](Lien Git hub vers le CV)
-[Click here to download my CV](Lien Git hub vers le CV pdf)
-
-<img width="1386" alt="Capture d'écran 2024-11-08 à 16 53 40" src="https://github.com/user-attachments/assets/d91d82f9-8bb1-44a8-ab93-dbe43959c731" />
-
-<h2>:male-technologist: Data Analysis Development Projects:</h2>
-
-
-
-- <b>Final study cas with databird</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
-## Mes projets
-### Projet 1 : Analyse du catalogue Netflix vs. Attentes des abonnés  
-- **Description** : Analyse de l'adéquation entre le catalogue Netflix et les préférences des utilisateurs en utilisant le rapport *What We Want*. Scraping des contenus Netflix et comparaison avec les tendances des abonnés.  
-- **Technologies** : Python, BeautifulSoup, pandas, Matplotlib, SQL. 
-- [Lien vers le projet]([lien vers le projet GitHub]())
-
-### Projet 2 : Analyse des sentiments sur Twitter
-- **Description** : Utilisation du scraping pour analyser les sentiments des utilisateurs sur Twitter autour d'un sujet donné.
-- **Technologies** : BeautifulSoup, pandas, scikit-learn, WordCloud.
-- **Lien vers le projet** : [lien vers le projet GitHub]()
-
-### Projet 3 : Prévision des stocks avec des séries temporelles
-- **Description** : Application de modèles de séries temporelles pour prévoir les niveaux de stock d'un produit.
-- **Technologies** : Python, statsmodels, Matplotlib.
-- **Lien vers le projet** : [lien vers le projet GitHub](#)
-  
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Code to use : 
-# Header Examples
-
-# H1 Header
-## H2 Header
-### H3 Header
+*Data Analyst & future Analytics Engineer, passionnée par la data au service du business stratégique.*
 
 ---
 
-## Text Formatting
+## 👩‍💻 À propos de moi
 
-**Bold Text**
+Avec plus de 10 ans d’expérience en comptabilité, j’ai développé une vision claire des enjeux financiers, du pilotage de projets et de la performance opérationnelle. Habituée à manipuler des chiffres, des indicateurs et des budgets, j’ai toujours eu à cœur d’optimiser les process, d’analyser les écarts et d’anticiper les besoins.
 
-*Italic Text*
+C’est cette rigueur métier et cette appétence pour les données qui m’ont naturellement conduite vers le métier de Data Analyst.
 
-**_Bold and Italic Text_**
+Aujourd’hui, je mets à profit ma double compétence — **finance & data** — pour construire des analyses pertinentes, créer des dashboards impactants et accompagner les décisions stratégiques. Je suis particulièrement à l’aise sur des sujets mêlant rentabilité, performance, gestion et visualisation de données.
 
-~~Strikethrough~~
+Je recherche un poste où je peux être ce **trait d’union entre les équipes métier et la donnée**, en apportant des solutions claires, fiables et orientées business.
 
----
+🎯 Mon objectif : transformer les données en leviers de décision pour les équipes métier, à travers des analyses précises et des visualisations impactantes.
 
-## Lists
-
-### Unordered List
-- Item 1
-- Item 2
-  - Subitem 2.1
-  - Subitem 2.2
-
-### Ordered List
-1. First item
-2. Second item
-   1. Subitem 2.1
-   2. Subitem 2.2
+Je suis actuellement à la recherche d’un poste de **Data Analyst**, **Analytics Engineer** ou **Business Analyst**, en lien étroit avec la stratégie et la performance.
 
 ---
 
-## Links and Images
+## 🛠️ Compétences techniques
 
-### Link
-[GitHub](https://github.com)
+- 📊 Data Visualisation : Power BI, Tableau, Matplotlib, Seaborn
+- 🐍 Langages : Python (Pandas, NumPy, Scikit-learn), SQL
+- ⚙️ Data Engineering : dbt (en cours), BigQuery, Airbyte
+- 📦 Outils : Excel avancé, Notion, Git, GitHub
 
-### Image
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+---
+
+## 📁 Projets
+
+### 🎵 [Analyse des écoutes Spotify](https://github.com/Samia-Lardjane/spotify-data-analysis)
+> Extraction via API Spotify, traitement en Python, dashboard Power BI.  
+> Objectif : comprendre les comportements d’écoute selon les genres, périodes, et artistes.
+
+### 💼 Suivi de rentabilité projets IDD *(à venir)*
+> Dashboard financier basé sur mon expérience chez IDD : marge par projet, suivi des TJM, alertes sur rentabilité.
+
+### 🛒 Dashboard ventes e-commerce *(à venir)*
+> Cas pratique : analyse des ventes d’un site e-commerce fictif, segmentation client, saisonnalité, KPI business.
+
+---
+
+## 🎓 Formations & Certifications
+
+- 🎓 **Data Analyst – DataBird** (2024)
+- 📚 **Formation Analytics Engineer – DataBird** (en cours)
+- 🏅 **Certification Power BI** (prévue)
+
+---
+
+## 🧰 Stack technique
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+---
+
+## 📬 Me contacter
+
+📧 samia.lardjane@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/samia-lardjane/)  
+📍 Basée en France, ouverte au remote ou hybride
+
+---
+
+✨ Merci de votre visite sur mon GitHub !
