@@ -12,8 +12,6 @@ C’est cette rigueur métier et cette appétence pour les données qui m’ont 
 
 Aujourd’hui, je mets à profit ma double compétence — **finance & data** — pour construire des analyses pertinentes, créer des dashboards impactants et accompagner les décisions stratégiques. Je suis particulièrement à l’aise sur des sujets mêlant rentabilité, performance, gestion et visualisation de données.
 
-Je recherche un poste où je peux être ce **trait d’union entre les équipes métier et la donnée**, en apportant des solutions claires, fiables et orientées business.
-
 🎯 Mon objectif : transformer les données en leviers de décision pour les équipes métier, à travers des analyses précises et des visualisations impactantes.
 
 Je suis actuellement à la recherche d’un poste de **Data Analyst**, **Analytics Engineer** ou **Business Analyst**, en lien étroit avec la stratégie et la performance.
@@ -23,7 +21,7 @@ Je suis actuellement à la recherche d’un poste de **Data Analyst**, **Analyti
 ## 🛠️ Compétences techniques
 
 - 📊 Data Visualisation : Power BI, Tableau, Matplotlib, Seaborn
-- 🐍 Langages : Python (Pandas, NumPy, Scikit-learn), SQL
+- 🐍 Langages : SQL, Python (Pandas, NumPy, Scikit-learn)
 - ⚙️ Data Engineering : dbt (en cours), BigQuery, Airbyte
 - 📦 Outils : Excel avancé, Notion, Git, GitHub
 
