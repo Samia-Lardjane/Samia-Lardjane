@@ -6,11 +6,9 @@
 
 ## 👩‍💻 À propos de moi
 
-Avec plus de 10 ans d’expérience en comptabilité, j’ai développé une vision claire des enjeux financiers, du pilotage de projets et de la performance opérationnelle. Habituée à manipuler des chiffres, des indicateurs et des budgets, j’ai toujours eu à cœur d’optimiser les process, d’analyser les écarts et d’anticiper les besoins.
 
-C’est cette rigueur métier et cette appétence pour les données qui m’ont naturellement conduite vers le métier de Data Analyst.
+Avec plus de 10 ans d’expérience en comptabilité et coordination administrative, j’ai développé une vision claire des enjeux financiers, du pilotage de projets et de la performance opérationnelle. Cette appétence pour les chiffres et l’analyse m’a naturellement conduite vers la data, où je combine aujourd’hui rigueur comptable et compétences techniques pour produire des analyses fiables et orientées business.
 
-Aujourd’hui, je mets à profit ma double compétence — **finance & data** — pour construire des analyses pertinentes, créer des dashboards impactants et accompagner les décisions stratégiques. Je suis particulièrement à l’aise sur des sujets mêlant rentabilité, performance, gestion et visualisation de données.
 
 🎯 Mon objectif : transformer les données en leviers de décision pour les équipes métier, à travers des analyses précises et des visualisations impactantes.
 
@@ -33,17 +31,14 @@ Je suis actuellement à la recherche d’un poste de **Data Analyst**, **Analyti
 > Extraction via API Spotify, traitement en Python, dashboard Power BI.  
 > Objectif : comprendre les comportements d’écoute selon les genres, périodes, et artistes.
 
-### 💼 Suivi de rentabilité projets IDD *(à venir)*
+### 💼 Dashboard Finance *(à venir)*
 > Dashboard financier basé sur mon expérience chez IDD : marge par projet, suivi des TJM, alertes sur rentabilité.
-
-### 🛒 Dashboard ventes e-commerce *(à venir)*
-> Cas pratique : analyse des ventes d’un site e-commerce fictif, segmentation client, saisonnalité, KPI business.
-
+Dashboard interactif pour suivre la rentabilité d’une entreprise.
 ---
 
 ## 🎓 Formations & Certifications
 
-- 🎓 **Data Analyst – DataBird** (2024)
+- 🎓 **Data Analyst – DataBird** (2025)
 - 📚 **Formation Analytics Engineer – DataBird** (en cours)
 - 🏅 **Certification Power BI** (prévue)
 
