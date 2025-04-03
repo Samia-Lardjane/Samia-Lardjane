@@ -62,7 +62,6 @@ Je suis actuellement à la recherche d’un poste de **Data Analyst**, **Analyti
 
 ## 📬 Me contacter
 
-📧 samia.lardjane@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/samia-lardjane/)  
 📍 Basée en France, ouverte au remote ou hybride
 
